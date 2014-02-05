@@ -18,9 +18,9 @@ are overkill for many developers working on small-ish projects.
 
 Here's what I really need when writing applications (alphabetically):
 
-- Database Abstraction
 - Configuration Management
 	- Has to support per-environment settings (local, test, stage, prod)
+- Database Abstraction
 - Routing
 - Templating
 	- Native PHP. I don't need a templating language - I have PHP.
